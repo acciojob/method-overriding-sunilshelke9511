@@ -12,9 +12,9 @@ public class Main
 
     }
 }
-  class  A
+class  A
 {
-     public String  meth()
+     String  meth()
      {
          return "Invoking method from class A";
      }
